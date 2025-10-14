@@ -1,5 +1,4 @@
 # 💼 progsu LinkedIn Guide
-### by Brian Johnson
 
 LinkedIn can feel confusing and overwhelming at times.
 You see people posting "excited to announce.." and you’re just trying to figure out what to even put on your profile. I know because I was that student once.  
@@ -15,11 +14,11 @@ We'll go through each part of your profile, what recruiters actually look for, a
 
 First impressions matter and your profile picture and banner plays a huge part in this. My first LinkedIn profile picture was a selfie I took in NYC and I didn't think too much of it. Do not do that.
 
-![](images/old_headshot.jpg)
+<img src="images/old_headshot.jpg" alt="Old Headshot" width="200"/>
 
 Here’s what works:
 - Take it outside with natural light (overcast days are perfect)  
-- Simple background, no distractions  
+- Simple background, no heavy distractions  
 - Look approachable (smile, but don’t force it)  
 - Dress how you’d show up to a career fair
 
@@ -28,7 +27,7 @@ You don’t need to rent a studio. A friend with a decent phone camera + portrai
 **Banner tip:**  
 Pick something that fits your vibe. It could be a tech-themed background, your city skyline, or do what I did and pick something minimalist from [Canva](https://www.canva.com/create/linkedin-banners/).
 
-![](images/new_headshot.jpg)
+<img src="images/new_headshot.jpg" alt="Old Headshot" width="200"/>
 
 
 ---
@@ -244,3 +243,4 @@ Always personalize your connection requests:
 - [LinkedIn Premium Info](https://www.linkedin.com/premium/)  
 
 ---
+### written by Brian Johnson
