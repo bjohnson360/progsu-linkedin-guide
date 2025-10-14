@@ -1,64 +1,53 @@
 # 💼 progsu LinkedIn Guide
+### by Brian Johnson
 
-Your LinkedIn profile is your **public resume**, your **networking hub**, and your **referral machine**.  
-Optimizing it is one of the highest-return investments you can make as a CS student as it can literally double your referral rate and unlock opportunities faster than any coding platform.
+LinkedIn can feel confusing and overwhelming at times.
+You see people posting "excited to announce.." and you’re just trying to figure out what to even put on your profile. I know because I was that student once.  
+But here’s the thing. LinkedIn IS one of the best tools you can use *as a CS student*.  
+I know it can seem to be about showing off but it’s actually about giving yourself a better chance at being seen.
 
----
-
-## 🧠 The Golden Idea
-
-LinkedIn isn’t just a professional profile, it’s your **warm lead generator**.  
-Every connection, post, or update can lead to a recruiter seeing your profile, a referral, or a job interview.
-
-> 💡 **Goal:** Treat LinkedIn like a living system that constantly works for you.
+So let’s talk about how to make your LinkedIn **stronger and cleaner** step by step.
+We'll go through each part of your profile, what recruiters actually look for, and how you can make your profile stand out in the tech crowd.
 
 ---
 
-## 🧩 1. Profile Foundation
+## 🧩 1. Your Profile Photo & Banner
 
-### ✅ Profile Picture
-Your photo is the *first impression* so make it count.
+First impressions matter and your profile picture and banner plays a huge part in this. My first LinkedIn profile picture was a selfie I took in NYC and I didn't think too much of it. Do not do that.
 
-**Checklist**
-- 📸 Recent (within 1–2 years)
-- Clear, well-lit, high-quality (use natural light or Portrait mode)
-- Neutral or smiling expression
-- Simple, uncluttered background
-- Business casual attire
-- No selfies so please have someone else take it
-- Make your photo **public**
+![](images/old_headshot.jpg)
 
-**Pro Tip:** Hire a student photographer or use iPhone Portrait mode outdoors in soft light. Take hella photos and pick the best.
+Here’s what works:
+- Take it outside with natural light (overcast days are perfect)  
+- Simple background, no distractions  
+- Look approachable (smile, but don’t force it)  
+- Dress how you’d show up to a career fair
 
----
+You don’t need to rent a studio. A friend with a decent phone camera + portrait mode would be completely fine. Additionally, GSU offers free headshots at their Iris booth in 25 Park Place, which is where I took my current headshots.
 
-### 🏙️ Background Banner
-Create a banner that fits your personality and tech interests.
+**Banner tip:**  
+Pick something that fits your vibe. It could be a tech-themed background, your city skyline, or do what I did and pick something minimalist from [Canva](https://www.canva.com/create/linkedin-banners/).
 
-**Ideas:**
-- City skyline or your campus  
-- Abstract tech background  
-- Nature photo for contrast  
+![](images/new_headshot.jpg)
 
-> 🎨 Ensure contrast between your banner and profile photo — avoid “warm on warm.”
-
-Use [Canva](https://www.canva.com/create/linkedin-banners/) or Figma templates to design one easily.
 
 ---
 
-### 🧑‍💼 Headline
-Your headline appears everywhere so make it keyword-rich, confident, and professional.
+## 💬 2. Your Headline (The One-Liner That Everyone Sees)
 
-**Formula:**  
-`[Field/Interest] | [Technical Skills] | [Goal or Value]`
+Most people’s headlines are just:  
+> “Student at [University Name]”
 
-**Examples:**
-- Computer Science Major | iOS & Web Developer | Passionate About AI and Education  
-- CS @ Georgia State University | SWE Intern @ IBM | Building Scalable Mobile Apps  
+Having a headline like that makes it harder for recruiters to see you in searches because you lack keywords.
 
-> 🚫 Avoid words like “Aspiring” because you *are* what you’re becoming.
+Try this formula:  
+**[Your Field/Role] | [Skills/Tech] | [Interest/Goal]**
 
----
+Bare minimum example:  
+> CS Major @ GSU | iOS & Web Dev | AI Enthusiast  
+
+This is short, searchable, and actually says something about you.  
+And DO NOT include words like *“aspiring”* or *“future.”*
 
 ## 🧾 2. About Section (Your Story)
 
@@ -201,7 +190,17 @@ Always personalize your connection requests:
 
 ---
 
-## 🧭 9. Optimization Checklist
+### 9. Common LinkedIn Mistakes to Avoid
+❌ Selfie profile pics
+❌ "Aspiring" anything
+❌ Having the "Open to Work" banner visible to the public (set to recruiters only)
+❌ One-line About sections
+❌ Empty Featured Section
+❌ No Project links
+❌ Connecting with everyone on Earth
+❌ Never updating your profile
+
+## 🧭 10. Optimization Checklist
 
 | Area | Goal | Complete? |
 |------|------|------------|
@@ -219,7 +218,7 @@ Always personalize your connection requests:
 
 ---
 
-## 🔄 10. Keep It Updated
+## 🔄 11. Keep It Updated
 
 > Update your LinkedIn every semester! Add new projects, courses, and milestones.  
 > A growing profile shows recruiters you’re active, learning, and serious about your craft.
