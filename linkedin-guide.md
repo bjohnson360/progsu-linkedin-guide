@@ -32,7 +32,7 @@ Pick something that fits your vibe. It could be a tech-themed background, your c
 
 ---
 
-## 💬 2. Your Headline (The One-Liner That Everyone Sees)
+## 💬 2. Your Headline
 
 Most people’s headlines are just:  
 > “Student at [University Name]”
@@ -48,7 +48,7 @@ Bare minimum example:
 This is short, searchable, and actually says something about you.  
 And DO NOT include words like *“aspiring”* or *“future.”*
 
-## 🧾 2. About Section (Your Story)
+## 🧾 2. About Section
 
 This is your *personal elevator pitch* which will be a 3–5 paragraph narrative that blends who you are, what you do, and where you’re headed.
 
