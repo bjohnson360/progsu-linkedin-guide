@@ -27,7 +27,7 @@ You don’t need to rent a studio. A friend with a decent phone camera + portrai
 **Banner tip:**  
 Pick something that fits your vibe. It could be a tech-themed background, your city skyline, or do what I did and pick something minimalist from [Canva](https://www.canva.com/create/linkedin-banners/).
 
-<img src="images/new_headshot.jpg" alt="Old Headshot" width="500"/>
+<img src="images/new_headshot.jpg" alt="New headshot" width="500"/>
 
 
 ---
@@ -50,7 +50,7 @@ And DO NOT include words like *“aspiring”* or *“future.”*
 
 Now with your improved profile picture, banner, and headline, your profile should look something like this.
 
-<img src="images/profile.jpg" alt="Old Headshot" width="500"/>
+<img src="images/profile.jpg" alt="Profile" width="500"/>
 
 ## 3. About Section
 
@@ -102,7 +102,7 @@ Your experience shows your growth and technical journey, even if you’re early 
 > 💡 Treat *club leadership*, *research*, or *volunteering* as experience if it showcases initiative or teamwork.
 
 After adding and refining your experience, it shuold look something like this:
-<img src="images/experience.png" alt="Old Headshot" width="500"/>
+<img src="images/experience.png" alt="Experience" width="500"/>
 
 ---
 
