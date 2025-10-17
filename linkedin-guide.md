@@ -32,7 +32,7 @@ Pick something that fits your vibe. It could be a tech-themed background, your c
 
 ---
 
-## 💬 2. Your Headline
+## 2. Your Headline
 
 Most people’s headlines are just:  
 > “Student at [University Name]”
@@ -52,7 +52,7 @@ Now with your improved profile picture, banner, and headline, your profile shoul
 
 <img src="images/profile.jpg" alt="Old Headshot" width="500"/>
 
-## 🧾 2. About Section
+## 3. About Section
 
 This is your *personal elevator pitch* which will be a 3–5 paragraph narrative that blends who you are, what you do, and where you’re headed.
 
@@ -68,7 +68,7 @@ This is your *personal elevator pitch* which will be a 3–5 paragraph narrative
 
 ---
 
-## 🧰 3. Featured Section
+## 4. Featured Section
 
 Show, don’t tell.  
 Add visuals or links to:
@@ -82,14 +82,14 @@ Add visuals or links to:
 
 ---
 
-## 💼 4. Experience Section
+## 5. Experience Section
 
 Your experience shows your growth and technical journey, even if you’re early in your career.
 
 **Tips:**
 - Include all relevant work, internships, research, and club roles.
 - Add non-technical work too (shows responsibility and initiative).
-- Use 3–4 short **paragraphs**, not just bullet points:
+- Use 2–4 short **paragraphs**, not just bullet points:
   1. What was your role and team?
   2. What project did you lead or contribute to?
   3. What impact did it have (metrics, improvements, lessons)?
@@ -101,9 +101,12 @@ Your experience shows your growth and technical journey, even if you’re early 
 
 > 💡 Treat *club leadership*, *research*, or *volunteering* as experience if it showcases initiative or teamwork.
 
+After adding and refining your experience, it shuold look something like this:
+<img src="images/experience.png" alt="Old Headshot" width="500"/>
+
 ---
 
-## 🧩 5. Projects Section
+## 6. Projects Section
 
 Highlight the technical side of your journey.  
 Include academic, hackathon, or personal projects where each one tells a story about your skills.
@@ -121,7 +124,7 @@ Include academic, hackathon, or personal projects where each one tells a story a
 
 ---
 
-## 🧠 6. Skills & Endorsements
+## 7. Skills & Endorsements
 
 Add both **technical** and **soft** skills, and get peers to endorse them.
 
@@ -134,7 +137,7 @@ Add both **technical** and **soft** skills, and get peers to endorse them.
 
 ---
 
-## 🧑‍🏫 7. Education, Awards, & Extras
+## 8. Education, Awards, & Extras
 
 Include:
 - University, degree, and expected graduation date
@@ -148,7 +151,7 @@ Include:
 
 ---
 
-## 🌐 8. Networking & Growth Strategy
+## 9. Networking & Growth Strategy
 
 ### 🎯 Get 500+ High-Quality Connections
 Aim for 500+ *relevant* connections over the next 6–12 months.  
@@ -193,7 +196,7 @@ Always personalize your connection requests:
 
 ---
 
-### 9. Common LinkedIn Mistakes to Avoid
+### 10. Common LinkedIn Mistakes to Avoid
 ❌ Selfie profile pics
 ❌ "Aspiring" anything
 ❌ Having the "Open to Work" banner visible to the public (set to recruiters only)
@@ -203,7 +206,7 @@ Always personalize your connection requests:
 ❌ Connecting with everyone on Earth
 ❌ Never updating your profile
 
-## 🧭 10. Optimization Checklist
+## 11. Optimization Checklist
 
 | Area | Goal | Complete? |
 |------|------|------------|
@@ -221,7 +224,7 @@ Always personalize your connection requests:
 
 ---
 
-## 🔄 11. Keep It Updated
+## 12. Keep It Updated
 
 > Update your LinkedIn every semester! Add new projects, courses, and milestones.  
 > A growing profile shows recruiters you’re active, learning, and serious about your craft.
