@@ -89,7 +89,7 @@ Your experience shows your growth and technical journey, even if you’re early 
 **Tips:**
 - Include all relevant work, internships, research, and club roles.
 - Add non-technical work too (shows responsibility and initiative).
-- Use 2–4 short **paragraphs**, not just bullet points:
+- Use short **paragraphs**, not just bullet points:
   1. What was your role and team?
   2. What project did you lead or contribute to?
   3. What impact did it have (metrics, improvements, lessons)?
