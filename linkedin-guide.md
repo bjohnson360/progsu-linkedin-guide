@@ -10,7 +10,7 @@ We'll go through each part of your profile, what recruiters actually look for, a
 
 ---
 
-## 🧩 1. Your Profile Photo & Banner
+## 1. Your Profile Photo & Banner
 
 First impressions matter and your profile picture and banner plays a huge part in this. My first LinkedIn profile picture was a selfie I took in NYC and I didn't think too much of it. Do not do that.
 
@@ -47,6 +47,10 @@ Bare minimum example:
 
 This is short, searchable, and actually says something about you.  
 And DO NOT include words like *“aspiring”* or *“future.”*
+
+Now with your improved profile picture, banner, and headline, your profile should look something like this.
+
+<img src="images/profile.jpg" alt="Old Headshot" width="500"/>
 
 ## 🧾 2. About Section
 
