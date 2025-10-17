@@ -2,7 +2,7 @@
 
 LinkedIn can feel confusing and overwhelming at times.
 You see people posting "excited to announce.." and you’re just trying to figure out what to even put on your profile. I know because I was that student once.  
-But here’s the thing. LinkedIn IS one of the best tools you can use *as a CS student*.  
+But here’s the thing. LinkedIn IS one of the best tools you can use *as a CS student*.
 I know it can seem to be about showing off but it’s actually about giving yourself a better chance at being seen.
 
 So let’s talk about how to make your LinkedIn **stronger and cleaner** step by step.
@@ -101,7 +101,7 @@ Your experience shows your growth and technical journey, even if you’re early 
 
 > 💡 Treat *club leadership*, *research*, or *volunteering* as experience if it showcases initiative or teamwork.
 
-After adding and refining your experience, it shuold look something like this:
+After adding and refining your experience, it should look something like this:
 <img src="images/experience.png" alt="Experience" width="500"/>
 
 ---
@@ -121,6 +121,7 @@ Include academic, hackathon, or personal projects where each one tells a story a
 > - Reduced app load time by 15%  
 >  
 > [🔗 GitHub Repo](https://github.com/) | [🎥 Demo Video](https://youtu.be/)
+<img src="images/projects.png" alt="Projects" width="500"/>
 
 ---
 
@@ -191,8 +192,10 @@ Be visible. Spend 10–15 minutes a day engaging:
 ---
 
 ### ✉️ Outreach Tip
-Always personalize your connection requests:
+Always personalize your connection requests and cold messages:
 > “Hey [Name], I’m a fellow CS student and really enjoyed your post about [topic]. Would love to connect and learn more about your work at [company].”
+<img src="images/reach.png" alt="Projects" width="500"/>
+
 
 ---
 
