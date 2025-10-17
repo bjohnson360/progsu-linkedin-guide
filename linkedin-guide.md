@@ -194,6 +194,7 @@ Be visible. Spend 10–15 minutes a day engaging:
 ### ✉️ Outreach Tip
 Always personalize your connection requests and cold messages:
 > “Hey [Name], I’m a fellow CS student and really enjoyed your post about [topic]. Would love to connect and learn more about your work at [company].”
+Don't be like me and make sure you proofread your message!
 <img src="images/outreach.jpg" alt="Projects" width="500"/>
 
 
